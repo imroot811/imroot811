@@ -7,7 +7,7 @@ I'm a developer passionate about **Competitive Programming** and **Machine Learn
 ### 🚀 What I'm up to
 
 * **Competitive Programming:** I actively solve problems focusing on **Number Theory**, **Combinatorics**, and **other math problems** using **C++**.
-    * *Current Focus:* Solving variety of different problems.
+    * *Current Focus:* Solving variety of different problems on different judges
 * **Machine Learning:** I build data analysis and regression models.
     * *Recent Project:* A **Linear Regression** analysis project achieving high model accuracy, involving thorough data preprocessing and performance evaluation (MSE, R2).
 * **System & Workflow:** I am a **Linux** power user, primarily navigating between **Debian** and **Arch-based** distributions. I write code and manage my workflow using a highly customized **Vim** environment.
