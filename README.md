@@ -6,7 +6,7 @@ I'm a developer passionate about **Competitive Programming** and **Machine Learn
 
 ### 🚀 What I'm up to
 
-* **Competitive Programming:** I actively solve problems focusing on **Number Theory**, **Combinatorics**, and **Constructive algorithm** using **C++**.
+* **Competitive Programming:** I actively solve problems focusing on **Number Theory**, **Combinatorics**, and **Math problems** using **C++**.
 * **Machine Learning:** I am currently working on data analysis and regression models.
     * *Recent Project:* A **Linear Regression** analysis project (achieving high model accuracy) involving data preprocessing and performance evaluation (MSE, R2 scores).
 
