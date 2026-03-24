@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 I'm a developer passionate about **Competitive Programming** and **Machine Learning**. I enjoy solving complex algorithmic challenges, building predictive models, and optimizing my development environment.
-
+introduction video : https://drive.google.com/file/d/17cPRIV5EGrZ2btyt8ATp2FDgQH3IxID5/view?usp=sharing
 ---
 
 ### 🚀 What I'm up to
